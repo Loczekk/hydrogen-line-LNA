@@ -66,11 +66,12 @@ Additionally, an automatic biasing circuit for the LNA was designed to ensure th
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Measurements
-<h3>S11 and S22 parameters to compare meas to simulate</h3>
-<img src="https://github.com/Loczekk/hydrogen-line-LNA/blob/main/images/S we do porownania.jpg" alt="PCB top view" width="400"/>
-<h3>PCB Top View</h3>
-<img src="https://github.com/Loczekk/hydrogen-line-LNA/blob/main/images/gotowy.jpg" alt="PCB top view" width="400"/>
-<h3>PCB Top View</h3>
-<img src="https://github.com/Loczekk/hydrogen-line-LNA/blob/main/images/gotowy.jpg" alt="PCB top view" width="400"/>
-<h3>PCB Top View</h3>
+<h3>S11 and S22 parameters to compare with simulate</h3>
+<img src="https://github.com/Loczekk/hydrogen-line-LNA/blob/main/images/S%20we%20do%20porownania.png" alt="PCB top view" width="800"/>
+<h3>Gain and Noise to compare with simualation</h3>
+<img src="https://github.com/Loczekk/hydrogen-line-LNA/blob/main/images/parametry_porownanie.png" alt="PCB top view" width="800"/>
+<h3>All S parameters</h3>
+<img src="https://github.com/Loczekk/hydrogen-line-LNA/blob/main/images/parametryS.png" alt="PCB top view" width="800"/>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+Wyniki mojej pracy inżynierskiej, całość udostępniona w formie PDF.
