@@ -9,7 +9,8 @@ PL below
     <li><a href="#measurements">Measurements</a></li> 
   </ol> 
 </details>
-<img src="https://github.com/Loczekk/hydrogen-line-LNA/images/gotowy.jpg" alt="PCB top view" width="600"/>
+<img src="https://github.com/Loczekk/hydrogen-line-LNA/blob/main/images/gotowy.jpg" alt="PCB top view" width="400"/>
+
 <!-- INTRODUCTION -->
 ## Introduction
 The aim of the project was to design, build and test a low noise amplifier operating in the L-band. The amplifier was to meet strict requirements for gain (> 30 dB) and noise figure less than 1 dB.
@@ -65,5 +66,11 @@ Additionally, an automatic biasing circuit for the LNA was designed to ensure th
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Measurements
-
+<h3>S11 and S22 parameters to compare meas to simulate</h3>
+<img src="https://github.com/Loczekk/hydrogen-line-LNA/blob/main/images/S we do porownania.jpg" alt="PCB top view" width="400"/>
+<h3>PCB Top View</h3>
+<img src="https://github.com/Loczekk/hydrogen-line-LNA/blob/main/images/gotowy.jpg" alt="PCB top view" width="400"/>
+<h3>PCB Top View</h3>
+<img src="https://github.com/Loczekk/hydrogen-line-LNA/blob/main/images/gotowy.jpg" alt="PCB top view" width="400"/>
+<h3>PCB Top View</h3>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
