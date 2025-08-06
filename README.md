@@ -9,7 +9,7 @@ PL below
     <li><a href="#measurements">Measurements</a></li> 
   </ol> 
 </details>
-
+<img src="https://github.com/Loczekk/hydrogen-line-LNA/assets/your-image-id" alt="PCB top view" width="600"/>
 <!-- INTRODUCTION -->
 ## Introduction
 The aim of the project was to design, build and test a low noise amplifier operating in the L-band. The amplifier was to meet strict requirements for gain (> 30 dB) and noise figure less than 1 dB.
